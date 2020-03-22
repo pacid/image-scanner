@@ -5,7 +5,7 @@ A simple script to scrap a page in search of images and their dimensions
 ##Usage:
 
 composer install  
-php src/Index.php <url>  
+php src/Index.php ```<url>```  
 
 i.e.:  
 ```php src/Index.php https://en.wikipedia.org/wiki/Great_Pyrenees``` 
